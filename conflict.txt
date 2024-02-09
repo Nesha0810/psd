@@ -1,2 +1,4 @@
 friday
 saturday
+
+monday
